@@ -7,3 +7,7 @@ console.log('testeSeis!')
 console.log('testeSete!')
 console.log('testeOito!')
 console.log('testeCMD!')
+
+const nome = 'Leandro'
+
+console.log(nome)
